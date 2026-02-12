@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Michael Ayobamigbe
 
-<!--
-**CyberWithMichael/CyberWithMichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cybersecurity Enthusiast | Python Developer | OSINT Researcher | AI Automation Builder  
 
-Here are some ideas to get you started:
+I am passionate about building security tools, detecting vulnerabilities, and automating threat detection systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 What I Do
+- 🛡️ Develop cybersecurity tools using Python
+- 🔍 Build OSINT dashboards and tracking systems
+- ⚙️ Create automation scripts for threat detection
+- 📊 Design GUI-based security applications
+- 🌐 Perform vulnerability scanning & analysis
+
+---
+
+## 🧰 Tech Stack
+- Python
+- Git & GitHub
+- Tkinter / PyQt
+- Networking Fundamentals
+- Linux Basics
+- API Integration
+- OSINT Tools
+
+---
+
+## 📌 Current Projects
+- 🔎 OSINT Dashboard GUI
+- 🛡️ Ransomware Detection System
+- 📡 Network Scanner Tool
+- 🔑 Password Manager & Generator
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/michael-ayobamigbe-b02062350
+- Email: michaelayobamigbe@gmail.com
+
+---
+
